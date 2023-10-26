@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "40C7VLl7S2vekGjQ7KogCMKArZRhnW2x5xERvfqOgs32fPwrLtsjtxIJHq6MQ40AvRACmQHCNTyXxlR5jK2zgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oguzhan\\Desktop\\InveonBootcamp\\SerializationInveonOrnek\\SerializationInveonOrnek.form\\SerializationInveonOrnek.form.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oguzhan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
